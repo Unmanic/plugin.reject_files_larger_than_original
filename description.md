@@ -1,4 +1,16 @@
 
+---
+
+##### Links:
+
+- [Support](https://unmanic.app/discord)
+- [Issues/Feature Requests](https://github.com/Unmanic/plugin.reject_files_larger_than_original/issues)
+- [Pull Requests](https://github.com/Unmanic/plugin.reject_files_larger_than_original/pulls)
+
+---
+
+##### Documentation:
+
 :::warning
 Be sure to set the Plugin flow!
 See examples below.
